@@ -7,3 +7,5 @@ A collection of things I want to learn, explore, and practice in Swift
 * Actors & async
 * Spend more time with UIViewRepresentables
     * Maybe just a straight UIKit tutorial?
+* reduce
+* filtering array by attribute, using Dictionary(uniqueKeysWithValues:)
